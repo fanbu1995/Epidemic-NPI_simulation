@@ -1,0 +1,12 @@
+name: NPI_simulation
+title: NPI_simulation
+username:
+account: fanbu214
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2206161
+bundleId: 3083142
+url: https://fanbu214.shinyapps.io/NPI_simulation/
+when: 1588193537.90305
+asMultiple: FALSE
+asStatic: FALSE
